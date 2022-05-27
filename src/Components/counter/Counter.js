@@ -5,7 +5,7 @@ export const Counter = (props) => {
     return (
         <div className="counter-container">
             <img alt="#" src={props.imageUrl}/>
-            <h2>{props.num}</h2>
+            <h2 className={props.name}>{props.num}</h2>
         </div>
     )
 }

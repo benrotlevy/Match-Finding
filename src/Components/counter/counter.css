@@ -7,3 +7,11 @@ img {
     width: 100px;
     height: 100px;
 }
+
+.yes {
+    color: green;
+}
+
+.no {
+    color: red;
+}
