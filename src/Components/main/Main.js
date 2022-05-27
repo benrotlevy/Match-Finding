@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import { Button } from "../button/Button";
 import { Counter } from "../counter/Counter";
 import { Image } from "../image/Image";
